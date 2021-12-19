@@ -1,0 +1,20 @@
+.loginMain{
+    margin: 0 auto;
+  }
+  .heads{
+      margin: 20px;
+  }
+  .loginHead{
+      font-weight: 600;
+      font-size: 24px;
+      margin-left: 20px;
+      border-bottom: 2px solid #087716;
+      text-align: center;
+      width: fit-content;
+      padding-bottom: 5px;
+      margin-bottom: 10px;
+    }
+.myLogin{
+  width: 50%;
+  margin: 0 auto;
+}

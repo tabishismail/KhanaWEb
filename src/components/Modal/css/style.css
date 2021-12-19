@@ -1,0 +1,10 @@
+.modalNew{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.btnNew{
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
